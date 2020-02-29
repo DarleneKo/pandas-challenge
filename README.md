@@ -69,13 +69,16 @@ Final report includes each of the following:
   * Item Price
   * Total Purchase Value
 
+
+### Copyright
+
+Trilogy Education Services © 2019. All Rights Reserved.
+
+
+
+
 ### TREND ANALYSIS:
 
 1)  
 2)
 3)
-
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
