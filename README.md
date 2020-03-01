@@ -79,6 +79,10 @@ Trilogy Education Services © 2019. All Rights Reserved.
 
 ### TREND ANALYSIS:
 
-1)  
-2)
-3)
+1)  Purchasing Analysis (By Gender):  There are a total of 576 unique players, which are demographically broken out as follows: 484 males (84.03%), 81 females (14.06%), and 11 other/non-disclosed (1.91%).  Out of the total 780 purchases made, males purchased 652 items, females purchased 113 items, and other/non-disclosed purchased 15 items with the average total purchase value per person were $4.07, $4.47 and $4.56, respectively.  Therefore, there are several repeat purchasers.
+
+2) Purchasing Analysis (By Age Range):  Out of the total 576 players, 258 players between the ages 20-24 represented 44.79% followed by 107 players between the ages of 15-19 represented 18.58% and 77 players between the ages of 25-29 represented 13.37% of the data set.  The age group over 40 years old had the fewest number of players (12) representing only 2.08% of the data set.  The total purchase value corresponded to each of the age groups.
+
+However, the average total purchase value per person did not correspond with the same age ranges (except for the over 40 age bracket).  The highest average total purchase value per person was $4.76 in the 35-39 age range, followed by $4.54 for children less than 10 years old and the third highest average total purchase value per person was $4.32 within the 20-24 age group.  The over 40 years old bracket had the lowest average per person of $3.19.
+
+3)  Top Spenders and Most Popular & Profitable Items:  The top spenders ranked by the Total Purchase Value does not necessarily indicate that they have the highest average purchase price.  Similarly, the most popular items purchased ranked by the highest number of purchases does not always have the highest average purchase price, but they generally have some of the more expensive items.  Finally, the most profitable items ranked by the highest Total Purchase Value contain several of the most popular items with both higher price points and higher number of purchases. 
